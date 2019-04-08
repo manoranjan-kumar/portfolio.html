@@ -58,7 +58,7 @@
         width:100%;
     }
     .one{
-        background-color: #1587ca40;
+        background-color: #cde0dbe0;
         width:60%;
         order:2;
         border-radius:1%;
@@ -67,14 +67,14 @@
 
     }
     .two{
-        background-color: #c7d4d2;
+        background-color: #1587ca4d;
         width:40%;
         order:1;
         border-radius:1%;
 
     }
     .second{
-        background-color: #15cab39e;
+        background-color: #1587ca4d;
         width:100%;
         border-radius:1%;
         display:flex;
@@ -125,20 +125,20 @@
     }
     .one{
         position:relative;
-        background-color: #e8eceb;
+        background-color: #cde0dbe0;
         width:60%;
         order:2;
         border-radius:1%;
     }
     .two{
-        background-color: #c7d4d2;
+        background-color: #1587ca4d;
         width:40%;
         order:1;
         border-radius:1%;
 
     }
     .second{
-        background-color: #c7d4d2;
+        background-color: #1587ca4d;
         width:30%;
         border-radius:1%;
         display:flex;
